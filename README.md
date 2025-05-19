@@ -49,21 +49,18 @@ El programa también genera:
 - Java instalado (ANTLR necesita Java)
 
 ### 📌 Pasos para ejecutar
+Instalación del Proyecto
+Clona este repositorio desde la terminal:
 
-1. Clonar el repositorio:
-
-```bash
 git clone https://github.com/juansecabrera/51922.git
-cd 51922
+Si se clonó correctamente, deberías ver el mensaje done.
 
-Instalar dependencias:
-npm install
+Cambia al directorio del proyecto:
 
-Generar archivos lexer/parser con ANTLR4:
-antlr4 -Dlanguage=JavaScript prueba1.g4
+C:\Users\SEBASTIAN\Desktop\ANALIZADOR\Prueba 1
+Para abrir el proyecto en VS Code escribe esto en la terminal:
 
-Ejecutar el analizador:
-node index.js
+code .
 
 Código de entrada (input.txt)
 switch(x) {
