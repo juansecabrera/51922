@@ -14,6 +14,7 @@ El programa también genera:
 - Una **tabla de tokens**
 - Un **árbol de análisis**
 - Una **traducción a JavaScript** con ejecución de instrucciones
+- El **resultado** del proyecto
 
 ---
 
