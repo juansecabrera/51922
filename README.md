@@ -28,19 +28,22 @@ El programa también genera:
 ```bash
 git clone https://github.com/juansecabrera/51922.git
 
-cd 51922
+### 📌Cambiar el directorio desde el cmd
+```bash
+cd 51922/prueba1
 
-Para abrir el proyecto en VS Code escribe esto en la terminal:
+### 📌Cambiar el directorio desde el cmd
 
+```bash
 code .
 
-Código de entrada (input.txt)
+## Código de entrada (input.txt)
 switch(x) {
   case 1: printf("Hola"); break;
   case 2: printf("Mundo"); break;
 }
 
-Salida esperada en consola
+## Salida esperada en consola
 Tokens generados correctamente.
 Árbol de análisis creado.
 Traducción a JavaScript ejecutada.
