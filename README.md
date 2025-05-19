@@ -43,16 +43,34 @@ Hola
 ## 📁 Estructura del Proyecto
 
 51922/
+├── .antlr/                          # Archivos internos generados por ANTLR
+│   └── (archivos temporales y metadatos)
+│
+├── generated/                       # Código fuente generado por ANTLR
 
-├── prueba1/                         # Carpeta principal del analizador
+│   ├── prueba1Lexer.js             # Lexer generado a partir de prueba1.g4
 
-│   ├── prueba1.g4                   # Gramática ANTLR4
+│   ├── prueba1Parser.js            # Parser generado
 
-│   ├── index.js                     # Código principal en JavaScript
+│   ├── prueba1Listener.js          # Listener base (opcional)
 
-│   ├── input.txt                    # Código fuente de entrada
+│   ├── prueba1Visitor.js           # Visitor base (opcional)
+│
+├── Customprueba1Listener.js        # Listener personalizado (si se usa)
 
-│   ├── package.json                 # Configuración y dependencias Node.js  
+├── Customprueba1Visitor.js         # Visitor personalizado para procesar el árbol
+│
+├── antlr-4.13.2-complete.jar       # JAR de ANTLR necesario para generar el parser/lexer
+
+├── prueba1.g4                      # Archivo de gramática con las reglas del lenguaje
+
+├── index.js                        # Script principal que ejecuta el análisis
+
+├── input.txt                       # Código fuente de entrada en lenguaje tipo C reducido
+
+└──  package.json                    # Dependencias y metadatos del proyecto
+
+
 
 
 
