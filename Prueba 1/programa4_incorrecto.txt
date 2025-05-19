@@ -1,7 +1,0 @@
-swich(z) {
-    case:
-        printf("Sin número de caso")
-    case 2:
-        printf("Falta punto y coma")
-        break;
-}
