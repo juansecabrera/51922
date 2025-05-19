@@ -1,9 +1,0 @@
-switch(variable) {
-    case 10:
-        printf("Diez");
-        printf("Otra linea");
-        break;
-    case 20:
-        printf("Veinte");
-        break;
-}
