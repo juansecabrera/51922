@@ -47,27 +47,28 @@ Hola
 │   └── (archivos temporales y metadatos)
 │
 ├── generated/                       # Código fuente generado por ANTLR
-
+│
 │   ├── prueba1Lexer.js             # Lexer generado a partir de prueba1.g4
-
+│
 │   ├── prueba1Parser.js            # Parser generado
-
+│
 │   ├── prueba1Listener.js          # Listener base (opcional)
-
+│
 │   ├── prueba1Visitor.js           # Visitor base (opcional)
 │
 ├── Customprueba1Listener.js        # Listener personalizado (si se usa)
-
+│
 ├── Customprueba1Visitor.js         # Visitor personalizado para procesar el árbol
 │
+│
 ├── antlr-4.13.2-complete.jar       # JAR de ANTLR necesario para generar el parser/lexer
-
+│
 ├── prueba1.g4                      # Archivo de gramática con las reglas del lenguaje
-
+│
 ├── index.js                        # Script principal que ejecuta el análisis
-
+│
 ├── input.txt                       # Código fuente de entrada en lenguaje tipo C reducido
-
+│
 └──  package.json                    # Dependencias y metadatos del proyecto
 
 
