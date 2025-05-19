@@ -1,6 +1,7 @@
 ## TRABAJO ANALIZADOR
 **Alumno:** Juan Sebastián Cabrera  
 **Carrera:** Ingenieria en Sistemas de Programacion 
+
 **Año:** 2025  
 **Materia:** Sintaxis y Semántica de los Lenguajes  
 
