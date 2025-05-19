@@ -18,24 +18,23 @@ El programa también genera:
 
 ---
 
----
 
 Instalación del Proyecto
 Clona este repositorio desde la terminal:
 
-bash
+```bash
 Copiar
 Editar
 git clone https://github.com/juansecabrera/51922.git
 Cambia al directorio del proyecto:
 
-bash
+```bash
 Copiar
 Editar
 cd 51922/Prueba1
 Instala las dependencias necesarias:
 
-bash
+```bash
 Copiar
 Editar
 npm install
