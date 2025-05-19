@@ -44,9 +44,13 @@ Hola
 
 51922/
 ├── prueba1/                         # Carpeta principal del analizador
+
 │   ├── prueba1.g4                   # Gramática ANTLR4
+
 │   ├── index.js                     # Código principal en JavaScript
+
 │   ├── input.txt                    # Código fuente de entrada
+
 │   ├── package.json                 # Configuración y dependencias Node.js  
 
 
