@@ -2,7 +2,6 @@
 
 **Alumno:** Juan Sebastián Cabrera  
 **Carrera:** Ingenieria en Sistemas de Programacion
-
 **Materia:** Sintaxis y Semántica de los Lenguajes  
 **Año:** 2025  
 
