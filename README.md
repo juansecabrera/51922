@@ -52,6 +52,10 @@ node index.js o npm start
 ``` 
 ![image](https://github.com/user-attachments/assets/bb99ab15-3379-4f36-9b95-c8ae8c5b3432)
 
+⚠️ En caso de nunca haber utilizado este comando, primero debes ejecutar:
+```bash
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
 ---
 
 ## Salida
