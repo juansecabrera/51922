@@ -9,7 +9,7 @@
 
 ##  Descripción
 
-Este proyecto consiste en un **analizador léxico y sintáctico** desarrollado con **ANTLR4 y JavaScript**. El objetivo es analizar estructuras `switch-case` escritas en un subconjunto reducido del lenguaje C.  
+Este proyecto consiste en un **analizador léxico y sintáctico** desarrollado con **ANTLR4 y JavaScript**. El objetivo es analizar estructuras `switch-case` escritas en un subconjunto reducido del ANSI-C  
 El programa también genera:
 - Una **tabla de tokens**
 - Un **árbol de análisis**
