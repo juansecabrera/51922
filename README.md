@@ -36,7 +36,7 @@ git clone https://github.com/juansecabrera/51922.git
 cd 51922/prueba1
 
 
-####Cambiar el directorio desde el cmd
+### Para abrir el proyecto en VS Code escribe esto en la terminal:
 
 ```bash
 code .
@@ -52,6 +52,14 @@ Tokens generados correctamente.
 Árbol de análisis creado.
 Traducción a JavaScript ejecutada.
 Hola
+
+## Instalación del Proyecto
+
+Clona este repositorio desde la terminal:
+
+```bash
+git clone https://github.com/juansecabrera/51922.git
+
 
 
 
