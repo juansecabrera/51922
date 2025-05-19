@@ -43,6 +43,7 @@ Hola
 ## 📁 Estructura del Proyecto
 
 51922/
+
 ├── prueba1/                         # Carpeta principal del analizador
 
 │   ├── prueba1.g4                   # Gramática ANTLR4
