@@ -20,24 +20,15 @@ El programa también genera:
 
 
 Instalación del Proyecto
-Clona este repositorio desde la terminal:
-
-```bash
-Copiar
-Editar
+1. Clona este repositorio desde la terminal:
 git clone https://github.com/juansecabrera/51922.git
-Cambia al directorio del proyecto:
 
-```bash
-Copiar
-Editar
-cd 51922/Prueba1
-Instala las dependencias necesarias:
+2. Cambia la direccion al repositorio en el cmd:
+cd 51922/prueba1
 
-```bash
-Copiar
-Editar
-npm install
+3.Para abrir el proyecto en VS Code escribe esto en la terminal:
+code .
+
 
 
 
