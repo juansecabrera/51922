@@ -21,19 +21,29 @@ El programa también genera:
 
 ## Instalación del Proyecto
 1. Clona este repositorio desde la terminal:
+```bash
 git clone https://github.com/juansecabrera/51922.git
-
+```
 2. Cambia la direccion al repositorio en el cmd:
+```bash
 cd 51922/Prueba 1
+```
 
 3. Para abrir el proyecto en VS Code escribe esto en la terminal:
+```bash
 code .
+```
 ---
 
 ## Ejecucion 
-1. Desde de la terminal ejecuta el comando: npm install antlr4   
-2. Luego ejecuta el analizador con el comando: node index.js o npm start
- 
+1. Desde de la terminal ejecuta el comando:
+```bash
+npm install antlr4
+```   
+2. Luego ejecuta el analizador con el comando:
+```bash
+node index.js o npm start
+``` 
 ![image](https://github.com/user-attachments/assets/bb99ab15-3379-4f36-9b95-c8ae8c5b3432)
 
 
@@ -86,12 +96,3 @@ Hola
 ├── input.txt                       # Código fuente de entrada en lenguaje tipo C reducido
 
 └──  package.json                    # Dependencias y metadatos del proyecto
-
-
-
-
-
-
-
-
-
