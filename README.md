@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 Descripción
+##  Descripción
 
 Este proyecto consiste en un **analizador léxico y sintáctico** desarrollado con **ANTLR4 y JavaScript**. El objetivo es analizar estructuras `switch-case` escritas en un subconjunto reducido del lenguaje C.  
 El programa también genera:
@@ -19,7 +19,7 @@ El programa también genera:
 ---
 
 
-Instalación del Proyecto
+## Instalación del Proyecto
 1. Clona este repositorio desde la terminal:
 git clone https://github.com/juansecabrera/51922.git
 
@@ -28,7 +28,12 @@ cd 51922/prueba1
 
 3. Para abrir el proyecto en VS Code escribe esto en la terminal:
 code .
+---
 
+## Ejecucion 
+1. Desde de la terminal ejecuta el comando: npm install antlr4
+2. Luego ejecuta el analizador con el comando: node index.js o npm start
+3. 
 
 
 
