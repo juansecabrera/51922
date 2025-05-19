@@ -17,7 +17,13 @@ El programa también genera:
 - El **resultado** del proyecto
 
 ---
+## Requisitos
 
+- Node.js (versión 14 o superior)
+- ANTLR4 instalado globalmente o localmente en el proyecto
+- Git
+ 
+---
 
 ## Instalación del Proyecto
 1. Clona este repositorio desde la terminal:
@@ -46,6 +52,7 @@ node index.js o npm start
 ``` 
 ![image](https://github.com/user-attachments/assets/bb99ab15-3379-4f36-9b95-c8ae8c5b3432)
 
+---
 
 ## Salida
 Tokens generados correctamente.
@@ -64,6 +71,8 @@ Traducción a JavaScript ejecutada.
 Hola
 
 ![image](https://github.com/user-attachments/assets/e55cecc3-720d-4be7-bbc8-a989eb550cb8)
+
+---
 
 ## 📁 Estructura del Proyecto
 
