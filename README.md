@@ -43,6 +43,7 @@ Hola
 ## 📁 Estructura del Proyecto
 
 51922/
+
 ├── .antlr/                          # Archivos internos generados por ANTLR
 
 └── (archivos temporales y metadatos)
