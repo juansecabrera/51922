@@ -57,7 +57,7 @@ Si se clonó correctamente, deberías ver el mensaje done.
 
 Cambia al directorio del proyecto:
 
-C:\Users\SEBASTIAN\Desktop\ANALIZADOR\Prueba 1
+cd 51922/Prueba 1
 Para abrir el proyecto en VS Code escribe esto en la terminal:
 
 code .
