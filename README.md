@@ -18,7 +18,6 @@ El programa también genera:
 
 ---
 
-
 ---
 
 ## ▶️ Ejecución del proyecto
@@ -28,11 +27,16 @@ El programa también genera:
 ```bash
 git clone https://github.com/juansecabrera/51922.git
 
-### 📌Cambiar el directorio desde el cmd
+---
+---
+
+#### 📌**Cambiar el directorio desde el cmd**
+
 ```bash
 cd 51922/prueba1
 
-### 📌Cambiar el directorio desde el cmd
+
+####Cambiar el directorio desde el cmd
 
 ```bash
 code .
