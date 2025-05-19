@@ -31,8 +31,8 @@ code .
 ## Ejecucion 
 1. Desde de la terminal ejecuta el comando: npm install antlr4   
 2. Luego ejecuta el analizador con el comando: node index.js o npm start
-3. 
-   ![image](https://github.com/user-attachments/assets/bb99ab15-3379-4f36-9b95-c8ae8c5b3432)
+ 
+![image](https://github.com/user-attachments/assets/bb99ab15-3379-4f36-9b95-c8ae8c5b3432)
 
 
 ## Salida
