@@ -18,13 +18,25 @@ El programa también genera:
 ---
 
 ## 📁 Estructura del proyecto
+
 ├── input.txt # Archivo de entrada con el código a analizar
+
 ├── Calculator.g4 # Gramática definida en ANTLR
+
 ├── index.js # Código principal del analizador
+
 ├── package.json # Dependencias de Node.js
+
 ├── tokens.json # Salida con tabla de tokens (opcional)
+
 ├── arbol.json # Árbol de análisis sintáctico (opcional)
+
 └── README.md # Este archivo
+
+---
+
+
+
 ---
 
 ## ▶️ Ejecución del proyecto
@@ -42,22 +54,29 @@ El programa también genera:
 ```bash
 git clone https://github.com/juansecabrera/51922.git
 cd 51922
+
 Instalar dependencias:
-
-bash
-Copiar
-Editar
 npm install
+
 Generar archivos lexer/parser con ANTLR4:
+antlr4 -Dlanguage=JavaScript prueba1.g4
 
-bash
-Copiar
-Editar
-antlr4 -Dlanguage=JavaScript Calculator.g4
 Ejecutar el analizador:
-
-bash
-Copiar
-Editar
 node index.js
+
+Código de entrada (input.txt)
+switch(x) {
+  case 1: printf("Hola"); break;
+  case 2: printf("Mundo"); break;
+}
+
+Salida esperada en consola
+Tokens generados correctamente.
+Árbol de análisis creado.
+Traducción a JavaScript ejecutada.
+Hola
+
+
+
+
 
