@@ -53,12 +53,6 @@ Tokens generados correctamente.
 Traducción a JavaScript ejecutada.
 Hola
 
-## Instalación del Proyecto
-
-Clona este repositorio desde la terminal:
-
-```bash
-git clone https://github.com/juansecabrera/51922.git
 
 
 
