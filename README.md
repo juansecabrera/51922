@@ -24,7 +24,7 @@ El programa también genera:
 git clone https://github.com/juansecabrera/51922.git
 
 2. Cambia la direccion al repositorio en el cmd:
-cd 51922/prueba1
+cd 51922/Prueba 1
 
 3. Para abrir el proyecto en VS Code escribe esto en la terminal:
 code .
