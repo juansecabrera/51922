@@ -18,42 +18,16 @@ El programa también genera:
 
 ---
 
-## 📁 Estructura del proyecto
-
-├── input.txt # Archivo de entrada con el código a analizar
-
-├── Calculator.g4 # Gramática definida en ANTLR
-
-├── index.js # Código principal del analizador
-
-├── package.json # Dependencias de Node.js
-
-├── tokens.json # Salida con tabla de tokens (opcional)
-
-├── arbol.json # Árbol de análisis sintáctico (opcional)
-
-└── README.md # Este archivo
-
----
-
-
 
 ---
 
 ## ▶️ Ejecución del proyecto
 
-### 🔧 Requisitos
-
-- [Node.js](https://nodejs.org) instalado
-- ANTLR4 configurado (descargar de [antlr.org](https://www.antlr.org/))
-- Java instalado (ANTLR necesita Java)
-
-### 📌 Pasos para ejecutar
-
-1. Clonar este repositorio:
+### 📌Clonar este repositorio:
 
 ```bash
 git clone https://github.com/juansecabrera/51922.git
+
 cd 51922
 
 Para abrir el proyecto en VS Code escribe esto en la terminal:
