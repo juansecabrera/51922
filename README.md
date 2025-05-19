@@ -36,8 +36,11 @@ code .
 
 ## Salida
 Tokens generados correctamente.
+
 Árbol de análisis creado.
+
 Traducción a JavaScript ejecutada.
+
 Hola
 
 ## 📁 Estructura del Proyecto
