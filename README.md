@@ -1,4 +1,4 @@
-# Proyecto Final: Analizador Sintáctico
+![image](https://github.com/user-attachments/assets/9cec6aee-598c-4ef5-8063-6d80feebaf26)# Proyecto Final: Analizador Sintáctico
 
 **Alumno:** Juan Sebastián Cabrera  
 **Carrera:** Ingenieria en Sistemas de Programacion
@@ -31,17 +31,24 @@ code .
 ---
 
 ## Ejecucion 
-1. Desde de la terminal ejecuta el comando: npm install antlr4
+1. Desde de la terminal ejecuta el comando: npm install antlr4   
 2. Luego ejecuta el analizador con el comando: node index.js o npm start
+   ![image](https://github.com/user-attachments/assets/bb99ab15-3379-4f36-9b95-c8ae8c5b3432)
+
 
 ## Salida
 Tokens generados correctamente.
+![image](https://github.com/user-attachments/assets/9f165529-9a9d-4cb5-83aa-d5d2ecdd2801)
 
 Árbol de análisis creado.
+![image](https://github.com/user-attachments/assets/a4086c4b-bafc-4141-bc5d-4e62c55f6398)
+
 
 Traducción a JavaScript ejecutada.
+![image](https://github.com/user-attachments/assets/36065626-a040-4c31-88ae-c5e82b08bee2)
 
 Hola
+![image](https://github.com/user-attachments/assets/e55cecc3-720d-4be7-bbc8-a989eb550cb8)
 
 ## 📁 Estructura del Proyecto
 
