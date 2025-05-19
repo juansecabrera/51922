@@ -44,7 +44,8 @@ Hola
 
 51922/
 ├── .antlr/                          # Archivos internos generados por ANTLR
-│   └── (archivos temporales y metadatos)
+
+└── (archivos temporales y metadatos)
 
 ├── generated/                       # Código fuente generado por ANTLR
 
