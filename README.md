@@ -33,7 +33,22 @@ code .
 ## Ejecucion 
 1. Desde de la terminal ejecuta el comando: npm install antlr4
 2. Luego ejecuta el analizador con el comando: node index.js o npm start
-3. 
+
+## Salida
+Tokens generados correctamente.
+Árbol de análisis creado.
+Traducción a JavaScript ejecutada.
+Hola
+
+## 📁 Estructura del Proyecto
+
+51922/
+├── prueba1/                         # Carpeta principal del analizador
+│   ├── prueba1.g4                   # Gramática ANTLR4
+│   ├── index.js                     # Código principal en JavaScript
+│   ├── input.txt                    # Código fuente de entrada
+│   ├── package.json                 # Configuración y dependencias Node.js  
+
 
 
 
