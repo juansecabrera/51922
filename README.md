@@ -49,15 +49,12 @@ El programa también genera:
 - Java instalado (ANTLR necesita Java)
 
 ### 📌 Pasos para ejecutar
-Instalación del Proyecto
-Clona este repositorio desde la terminal:
 
+1. Clonar este repositorio:
+
+```bash
 git clone https://github.com/juansecabrera/51922.git
-Si se clonó correctamente, deberías ver el mensaje done.
-
-Cambia al directorio del proyecto:
-
-cd 51922/Prueba 1
+cd 51922
 
 Para abrir el proyecto en VS Code escribe esto en la terminal:
 
