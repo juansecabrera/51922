@@ -1,7 +1,0 @@
-switch(y) {
-    case 1:
-        printf("Falta el break")
-    default
-        printf("Sin dos puntos");
-        break;
-}
