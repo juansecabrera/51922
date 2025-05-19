@@ -20,39 +20,25 @@ El programa también genera:
 
 ---
 
-## ▶️ Ejecución del proyecto
+Instalación del Proyecto
+Clona este repositorio desde la terminal:
 
-### 📌Clonar este repositorio:
-
-```bash
+bash
+Copiar
+Editar
 git clone https://github.com/juansecabrera/51922.git
+Cambia al directorio del proyecto:
 
----
----
+bash
+Copiar
+Editar
+cd 51922/Prueba1
+Instala las dependencias necesarias:
 
-#### 📌**Cambiar el directorio desde el cmd**
-
-```bash
-cd 51922/prueba1
-
-
-### Para abrir el proyecto en VS Code escribe esto en la terminal:
-
-```bash
-code .
-
-## Código de entrada (input.txt)
-switch(x) {
-  case 1: printf("Hola"); break;
-  case 2: printf("Mundo"); break;
-}
-
-## Salida esperada en consola
-Tokens generados correctamente.
-Árbol de análisis creado.
-Traducción a JavaScript ejecutada.
-Hola
-
+bash
+Copiar
+Editar
+npm install
 
 
 
